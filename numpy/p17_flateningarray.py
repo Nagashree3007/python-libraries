@@ -8,7 +8,7 @@
 @Title :program to create a contiguous flattened array.
 
 
-'''
+''' 
 import loggingfile
 import os
 import numpy as np

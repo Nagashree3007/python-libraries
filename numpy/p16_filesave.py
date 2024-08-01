@@ -5,8 +5,7 @@
 @Date: 2024-07-24 
 @Last Modified by: Nagashree C R
 @Last Modified: 2024-07-11 
-@Title : create a null vector of size 10 and update sixth value to 11.
-
+@Title :python program to add numpy array to textfile
 
 '''
 import loggingfile

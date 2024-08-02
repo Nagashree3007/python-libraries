@@ -5,7 +5,8 @@
 @Date: 2024-07-24 
 @Last Modified by: Nagashree C R
 @Last Modified: 2024-07-11 
-@Title : .
+@Title : program to remove elements from  numpy array.
+.
 
 '''
 

@@ -5,7 +5,7 @@ def logger_init(name):
     # configuring our specific logger
     # setting the log level for the logger
     if logger.hasHandlers():
-        logger.handlers.clear()
+        logger.handlers.clear() 
     logger.setLevel(logging.DEBUG)
     # creating a formatter
     formatter = logging.Formatter('%(asctime)s:%(levelname)s:%(name)s:%(message)s')
